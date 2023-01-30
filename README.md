@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<img alt="codewars badge" src="https://www.codewars.com/users/felixschwebel/badges/large">
+
+
 <!--
 **felixschwebel/felixschwebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
