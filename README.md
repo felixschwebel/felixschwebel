@@ -1,8 +1,5 @@
 ### Hi there! 👋
 
-<img alt="codewars badge" src="https://www.codewars.com/users/felixschwebel/badges/large">
-
-
 
 <!--
 
